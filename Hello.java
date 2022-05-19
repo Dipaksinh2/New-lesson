@@ -25,3 +25,4 @@ class B
 		System.out.println("B class ");
 	}
 }
+modify my Hello,java
